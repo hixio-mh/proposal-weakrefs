@@ -7,7 +7,7 @@
     "build": "ecmarkup spec/index.html out/index.html"
   },
   "dependencies": {
-    "ecmarkup": "^3.14.0",
+    "ecmarkup": "^10.0.1",
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {
